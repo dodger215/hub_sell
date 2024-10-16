@@ -5,13 +5,13 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Olly' doughnut | sign in</title>
+	<title>market hub | sign up</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 	<section class="auth-container d-flex align-items-center justify-content-center" style="min-height: 100vh; background-color: #f8f9fa;">
         <div class="auth-box bg-white p-5 rounded shadow-sm" style="max-width: 400px; width: 100%;">
-            <h2 class="text-center mb-4">Login</h2>
+            <h2 class="text-center mb-4">Sign UP </h2>
             <form action="./include/php/signup.php" id="login-form" method="POST" autocomplete="off">
             	<div class="mb-3">
                     <label for="fname" class="form-label">Your full name</label>
